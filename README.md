@@ -1,1 +1,1 @@
-# Extractive text summarization NLP project using TF-IDF and Word2Vec.
+# Extractive text summarization using TF-IDF and Word2Vec.
